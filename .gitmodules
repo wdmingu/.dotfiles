@@ -1,0 +1,15 @@
+[submodule "nvim/telescope.nvim"]
+	path = nvim/telescope.nvim
+	url = https://github.com/nvim-telescope/telescope.nvim.git
+[submodule "nvim/Comment.nvim"]
+	path = nvim/Comment.nvim
+	url = https://github.com/numToStr/Comment.nvim.git
+[submodule "nvim/nvim-lspconfig"]
+	path = nvim/nvim-lspconfig
+	url = https://github.com/neovim/nvim-lspconfig.git
+[submodule "nvim/mini.completion"]
+	path = nvim/mini.completion
+	url = https://github.com/echasnovski/mini.completion.git
+[submodule "nvim/nvim"]
+	path = nvim/nvim
+	url = https://github.com/catppuccin/nvim.git
